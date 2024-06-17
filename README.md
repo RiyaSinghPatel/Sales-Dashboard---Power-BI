@@ -20,4 +20,6 @@ The end goal is to share valuable insights and actionable information that can d
 
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
-![dashboard1](https://github.com/RiyaSinghPatel/Airbnb-listing-Project-2024/assets/148413456/db31e636-0dfe-41c3-82b1-78fa5fbf74fc)
+![dashboard1]((https://github.com/RiyaSinghPatel/Sales-Dashboard---Power-BI/blob/main/Dashboard.png))
+
+![dashboard1](https://github.com/RiyaSinghPatel/Sales-Dashboard---Power-BI/blob/main/forecast%20.png)
